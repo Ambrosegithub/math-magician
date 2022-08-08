@@ -1,6 +1,8 @@
+import Calculator from './components/calculator';
+
 function App() {
 	return (
-		null
+	  <Calculator />
 	);
 }
 

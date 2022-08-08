@@ -1,3 +1,37 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-	margin: 0;
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  width: 50%;
+  height: auto;
+}
+
+.calc-box {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.screen {
+	align-self: flex-end;
+	background-color: #858693;
+	width: 100%;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.buttons:nth-last-child() {
+grid-column: 1/3;
 }
