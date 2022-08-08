@@ -1,13 +1,14 @@
-# Project Name: 
-math-magician 
+# Project Name:
+
+math-magician
 
 > In this project we do basic arithmetic operation using react-redux. with nice looking UI design
 
-
 ## Built With
+
 - Major languages : JavaScript (ES6 syntax), HTLM and CSS
 - Module bundler : `webpack`
-- Library : `Jest` 
+- Library : `Jest`
 - Technologies used : Github, Git and Linters
 - Framework used : React.
 
@@ -52,7 +53,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/Ambrosegithub)
 - Twitter: [@twitterhandle](https://twitter.com/Glorious851)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ambrisexyz-chief-657000199/)
-
 
 ## 🤝 Contributing
 
