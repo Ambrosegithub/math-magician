@@ -22,7 +22,6 @@ body {
   left: 35%;
   right: 35%;
   margin-top: 1%;
-  transform: scaleX(-50%, -50%);
 }
 
 .calc-box {
