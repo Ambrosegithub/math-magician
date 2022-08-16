@@ -12,6 +12,7 @@ const Calculator = () => {
   return (
     <>
       <section className="container">
+        <h1 className="calc-title">Let&apos;s do some mathematics!</h1>
         <div className="calc-box">
           <div className="screen">
             <span className="output">{state.next || state.total || 0}</span>
