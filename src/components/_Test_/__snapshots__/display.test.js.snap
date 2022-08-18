@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test display Butoons Test Function Button component 1`] = `
+<displayBtn
+  e={[MockFunction]}
+  name="Ambrose"
+/>
+`;
+
+exports[`Test rendering and user interaction renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="container"
+      >
+        <h1
+          class="calc-title"
+        >
+          Let's do some mathematics!
+        </h1>
+        <div
+          class="calc-box"
+        >
+          <div
+            class="screen"
+          >
+            <span
+              class="output"
+            >
+              0
+            </span>
+          </div>
+          <div
+            class="buttons"
+          >
+            <button
+              class="calc"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+               
+              %
+            </button>
+            <button
+              class="calc active"
+              type="button"
+            >
+              <span>
+                ÷
+              </span>
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="calc active"
+              type="button"
+            >
+              x
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="calc active"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="calc active"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="zero"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="calc"
+              type="button"
+            >
+              .
+            </button>
+            <button
+              class="calc active"
+              type="button"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="container"
+    >
+      <h1
+        class="calc-title"
+      >
+        Let's do some mathematics!
+      </h1>
+      <div
+        class="calc-box"
+      >
+        <div
+          class="screen"
+        >
+          <span
+            class="output"
+          >
+            0
+          </span>
+        </div>
+        <div
+          class="buttons"
+        >
+          <button
+            class="calc"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+             
+            %
+          </button>
+          <button
+            class="calc active"
+            type="button"
+          >
+            <span>
+              ÷
+            </span>
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="calc active"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="calc active"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="calc active"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="zero"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="calc"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="calc active"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
