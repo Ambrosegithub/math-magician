@@ -46,8 +46,6 @@ To get a local copy up and running follow these simple example steps.
 - `npx eslint .` : for the `JavaScript` codebase and use of best practices
 - > Note that you can add `--fix` keyword to the command for `Css` and/or `JavaScript` to make sure that you avoid all errors comming from your `code editor`
 
-## Demo 
-[click here for live demo](https://ambrose-math.netlify.app/)
 ## Author
 
 👤 **Ambrose Isigba**
