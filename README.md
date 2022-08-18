@@ -54,6 +54,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/Glorious851)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ambrisexyz-chief-657000199/)
 
+👤 **Tuyishimire Eric**
+
+- GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
+- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/Tuyishimire-Eric-32426b21a/)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
