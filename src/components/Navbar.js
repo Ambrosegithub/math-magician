@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-// eslint-disable-next-line react/prefer-stateless-function
 const Navbar = () => {
   const urls = [
     {
